@@ -14,7 +14,10 @@ html{
 }
 
 #myCanvas {
-  border: 1px solid black;
+  background-image: url("https://cdn.glitch.global/b536bb30-3365-4f60-b3d4-6602e5b12098/6a6c5be42b6e387452110c9ccce2e3d7.gif?v=1739463992870");
+  background-size: 600px 400px;
+  border-radius: 300px;
+  border: 5px solid darkturquoise;
 }
 
 .container{
